@@ -1,0 +1,25 @@
+.section {
+  font-family: "Poppins", sans-serif;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.form {
+  align-items: center;
+  display: flex;
+  font-family: "Poppins", sans-serif;
+  flex-direction: column;
+  margin-top: 3em;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  gap: 20%;
+  margin-top: 3%;
+}
+
+a {
+  color: #fff !important;
+  text-decoration: none !important;
+}

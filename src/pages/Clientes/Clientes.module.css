@@ -1,0 +1,23 @@
+.clientes {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.table {
+  margin-top: 2em;
+  font-family: "Poppins", sans-serif;
+  color: rgb(2, 32, 22);
+}
+
+thead{
+  /* Created with https://www.css-gradient.com */
+background: #A94DF1;
+background: -webkit-linear-gradient(top left, #A94DF1, #E513A7);
+background: -moz-linear-gradient(top left, #A94DF1, #E513A7);
+background: linear-gradient(to bottom right, #A94DF1, #E513A7);
+color: #fff;;
+}
+

@@ -1,0 +1,21 @@
+header {
+  padding: 16px;
+  /* Created with https://www.css-gradient.com */
+  background: #224bd3;
+  background: -webkit-linear-gradient(top left, #224bd3, #823b9e);
+  background: -moz-linear-gradient(top left, #224bd3, #823b9e);
+  background: linear-gradient(to bottom right, #224bd3, #823b9e);
+}
+
+header svg {
+  font-size: 40px;
+  color: #f0f6fc;
+  cursor: pointer;
+}
+
+.h1{
+  display: flex;
+
+ justify-content: center;
+  color: #f0f6fc;
+}

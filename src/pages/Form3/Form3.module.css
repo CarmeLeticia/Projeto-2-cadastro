@@ -1,0 +1,23 @@
+.section {
+  font-family: "Poppins", sans-serif;
+  margin-top: 10%;
+  text-align: left;
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  flex-direction: column;
+  font-family: "Poppins", sans-serif;
+  margin-top: 3em;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  justify-content: flex-end;
+}

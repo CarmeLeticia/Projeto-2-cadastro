@@ -1,0 +1,50 @@
+.sidenav {
+  /* Created with https://www.css-gradient.com */
+  background: #224bd3;
+  background: -webkit-linear-gradient(top left, #224bd3, #823b9e);
+  background: -moz-linear-gradient(top left, #224bd3, #823b9e);
+  background: linear-gradient(to bottom right, #224bd3, #823b9e);
+  font-family: "Poppins", sans-serif;
+  height: 95vh;
+  left: -100%;
+  padding: 0 30px;
+  position: absolute;
+  transition: all 0.3s;
+  width: 240px;
+}
+
+.sidenav.active {
+  left: 0;
+}
+
+.clientes {
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+
+ul li {
+  list-style-type: none;
+  color: aliceblue;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  border-radius: 6px;
+  font-size: 16px;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  /* Created with https://www.css-gradient.com */
+  background: #a94df1;
+  background: -webkit-linear-gradient(top left, #a94df1, #e513a7);
+  background: -moz-linear-gradient(top left, #a94df1, #e513a7);
+  background: linear-gradient(to bottom right, #a94df1, #e513a7);
+}
